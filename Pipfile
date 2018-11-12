@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 "RPi.GPIO" = "*"
+"adafruit-ads1x15" = "*"
 
 [dev-packages]
 
